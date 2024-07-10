@@ -48,7 +48,6 @@ const gridTemplateSmallScreens = `
     "i"
     "j"
     "j"
-
 `;
 
 const Dashboard = () => {
