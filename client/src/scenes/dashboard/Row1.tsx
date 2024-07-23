@@ -1,4 +1,4 @@
-import Dashboardbox from "@/components/Dashboardbox";
+import Dashboardbox from "../../components/Dashboardbox";
 import { useGetKpisQuery } from "../../state/api";
 import { useTheme } from "@mui/material";
 import { useMemo } from "react";
